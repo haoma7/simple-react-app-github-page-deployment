@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simple-react-app-github-page-deployment/static/css/main.3c6d0ea7.css",
+    "main.js": "/simple-react-app-github-page-deployment/static/js/main.e925f0ce.js",
+    "index.html": "/simple-react-app-github-page-deployment/index.html",
+    "main.3c6d0ea7.css.map": "/simple-react-app-github-page-deployment/static/css/main.3c6d0ea7.css.map",
+    "main.e925f0ce.js.map": "/simple-react-app-github-page-deployment/static/js/main.e925f0ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c6d0ea7.css",
+    "static/js/main.e925f0ce.js"
+  ]
+}
